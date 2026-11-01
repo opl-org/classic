@@ -1,2 +1,2 @@
 *.cls linguist-language=JavaScript
-*.cls linguist-vendored=false
+*.cls linguist-detectable=false
